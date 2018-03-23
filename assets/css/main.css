@@ -828,7 +828,7 @@
 /* Basic */
 
 	body {
-		background: #4d4f5a;
+		background: #333E47;
 		font-family: 'Lato', sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
@@ -1429,7 +1429,7 @@
 			}
 
 		#nav li.active a {
-			background: #6BC5CE;
+			background: #D49206;
 			border-radius: 6px;
 			color: #FFF;
 			font-weight: 700;
@@ -1656,11 +1656,11 @@
 		}
 
 	.wrapper-style1 {
-		background: #5AB5BE;
+		background: #D49206;
 	}
 
 		.wrapper-style1 .container {
-			background: #6BC5CE;
+			background: #FAC046;
 		}
 
 	.wrapper-style2 {
@@ -1694,6 +1694,11 @@
 			}
 
 	}
+
+	.logotipo img {
+		width: 100px;
+	}
+
 
 /* Mobile */
 
@@ -1959,6 +1964,7 @@
 				font-weight: 700 !important;
 				text-align: center;
 			}
+
 
 			#nav {
 				display: none;
