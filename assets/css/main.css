@@ -1406,7 +1406,7 @@
 	#nav {
 		position: absolute;
 		right: 0;
-		top: 3.5em;
+		top: 54px;
 	}
 
 		#nav > ul > li {
@@ -1684,7 +1684,7 @@
 		/* Header */
 
 			#header {
-				padding: 1.5em 0 1.5em 0;
+				padding: 0 0 1.5em 0;
 			}
 
 		/* Nav */
